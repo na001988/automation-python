@@ -1,2 +1,2 @@
 # automation-python
-This repository demonstrates the use of python for automate web pages using Page Object Model
+This repository demonstrates the use of Python to automate web pages using the Page Object Model
