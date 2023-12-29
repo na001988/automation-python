@@ -1,9 +1,8 @@
-### UI Automation with - Pytest Framowrk
+## UI Automation with - Pytest Framework
 This repository demonstrates the use of Python to automate web pages using the Page Object Model
 
-### Steps to use the project
-1.- clone project
-2.- pip install -r requirements.txt
-3.- Create a configuration to run first test: -m positive --browser=firefox
-4.- run from IDE
-5.- run from CLI: 
+## Steps to use the project
+- clone project
+- pip install -r requirements.txt
+- From Intelij, Create a configuration test to run using the variable as: -m positive --browser=chrome
+
