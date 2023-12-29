@@ -18,8 +18,8 @@
 #       - run: |
 #           cd tests
 #           mkdir -p reports
-#           pytest test_login_page.py --browser=firefox --html=reports/reports.html
-#           chmod 777  /home/runner/work/automation-python-noPOM/automation-python-noPOM/tests/reports/
+#           pytest test_login_page.py --browser=chrome --html=reports/reports.html
+#           chmod 777  /home/runner/work/automation-python/automation-python/tests/reports/
 #       - name: Set output
 #         if: success() || failure()
 #         id: results
